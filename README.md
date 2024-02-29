@@ -1,5 +1,6 @@
-# Olá 👑
+# Olá, sou o Pedro Henrique 👑
 
-Sou um estudante da ETEC MCM, e este perfil é dedicado a meus estudos do curso técnico de informática para internet na mesma.
-Meu objetivo é me tornar um desenvolvedor completo.
+Estudante da ETEC MCM, perfil voltado a estudos do curso técnico de informática para internet.
 
+# Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,cs,vscode)](https://skillicons.dev)
