@@ -4,4 +4,4 @@ Estudante da ETEC MCM, perfil voltado aos estudos do curso técnico de informát
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,html,css,python,cs,vscode)](https://skillicons.dev)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=wes-mendes&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
