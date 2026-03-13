@@ -1,6 +1,7 @@
 # Olá, sou o Pedro Henrique 👑
+Técninco em informática para internet pela ETEC MCM
 
-Estudante da ETEC MCM, perfil voltado aos estudos do curso técnico de informática para internet.
+Graduando na UFABC
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=php,mysql,js,html,css,python,cs,vscode)](https://skillicons.dev)<br/>
