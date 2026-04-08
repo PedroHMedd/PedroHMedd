@@ -1,33 +1,29 @@
-# Olá, eu sou o Pedro Henrique 
+# Olá, eu sou o Pedro Henrique
 
-Sou apaixonado por exatas, tecnologia e pela arte de resolver problemas complexos através do código ou pela matemática pura.
+Sou apaixonado pela interseção entre as exatas e a tecnologia. Utilizo a matemática pura e o código para resolver problemas complexos e gerar alguns insights valiosos.
 
-Atualmente, estou mergulhado no ecossistema **Python** e no universo de **Ciência e Análise de Dados**, desenvolvendo soluções que unem lógica matemática e eficiência técnica.
-
-Neste perfil, você encontrará meus projetos autorais, acadêmicos e experimentos práticos de estudo.
+Atualmente, foco no ecossistema **Python** voltado para **Ciência e Análise de Dados**, construindo soluções que unem rigor lógico e eficiência técnica.
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas
+### 🛠️ Toolbox
 
-**Linguagens & Web**
-[![My Skills](https://skillicons.dev/icons?i=php,js,html,css,python,cs)](https://skillicons.dev)
+**Linguagens & Web** [![My Skills](https://skillicons.dev/icons?i=py,cs,js,php,html,css)](https://skillicons.dev)
 
-**Banco de Dados & Ferramentas**
-[![My Skills](https://skillicons.dev/icons?i=mysql,vscode,git,github)](https://skillicons.dev)
+**Infra & Ferramentas** [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
 
 ---
 
-### 📊 Minhas Estatísticas
+### 📊 Performance & Insights
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&theme=gotham&layout=compact&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroHMedd&show_icons=true&theme=gotham&hide_border=true" />
-</p>
+<div align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroHMedd&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="Pedro's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb" alt="Top Languages" />
+</div>
 
 ---
 
-### 📫 Vamos conversar?
+### 📫 Conecte-se comigo
 
-- 💼 [opedromedeiros](https://linkedin.com/in/opedromedeiros)
-- 📧 [pedromedeirosetec02@gmail.com](mailto:pedromedeirosetec02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opedromedeiros)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pedromedeirosetec02@gmail.com)
