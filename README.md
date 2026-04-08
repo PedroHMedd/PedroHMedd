@@ -17,8 +17,7 @@ Atualmente, foco no ecossistema **Python** voltado para **Ciência e Análise de
 ### 📊 Performance & Insights
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroHMedd&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=PedroHMedd&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
