@@ -16,10 +16,10 @@ Atualmente, foco no ecossistema **Python** voltado para **Ciência e Análise de
 
 ### 📊 Performance & Insights
 
-<div align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PedroHMedd&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb&icon_color=61dafb" alt="Pedro's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=61dafb" alt="Top Languages" />
-</div>
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PedroHMedd&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroHMedd&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
