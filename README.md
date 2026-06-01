@@ -2,7 +2,7 @@
 
 Sou apaixonado pela interseção entre as exatas e a tecnologia. Utilizo a matemática pura e o código para resolver problemas complexos e gerar alguns insights valiosos.
 
-Atualmente, foco no ecossistema **Python** voltado para **Ciência e Análise de Dados**, construindo soluções que unem rigor lógico e eficiência técnica.
+Atualmente, foco no ecossistema Python voltado para Ciência e Análise de Dados, construindo soluções que unem lógica e eficiência.
 
 ---
 
