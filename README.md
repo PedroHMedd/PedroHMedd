@@ -14,15 +14,6 @@ Atualmente, foco no ecossistema Python voltado para Ciência e Análise de Dados
 
 ---
 
-### 📊 Performance & Insights
-
-<p align="center">
-  
-  <img src="github-metrics.svg" />
-</p>
-
----
-
 ### 📫 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/opedromedeiros)
