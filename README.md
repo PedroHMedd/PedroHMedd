@@ -8,7 +8,7 @@ Atualmente, foco no ecossistema Python voltado para Ciência e Análise de Dados
 
 ### 🛠️ Toolbox
 
-**Linguagens & Web** [![My Skills](https://skillicons.dev/icons?i=py,cs,js,php,html,css)](https://skillicons.dev)
+**Linguagens & Web** [![My Skills](https://skillicons.dev/icons?i=py,cs,js,php)](https://skillicons.dev)
 
 **Infra & Ferramentas** [![My Skills](https://skillicons.dev/icons?i=mysql,git,github,vscode)](https://skillicons.dev)
 
